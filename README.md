@@ -1,93 +1,92 @@
 # Python Domain Check
 
-Dit project bevat een Python-script dat informatie over domeinnamen verzamelt, zoals registratiegegevens, geolocatie, DNS-informatie en beschikbaarheid. Het script kan domeinnamen verwerken die via de command-line worden opgegeven of uit een bestand worden gelezen.
+This project contains a Python script that gathers information about domain names, such as registration details, geolocation, DNS information, and availability. The script can process domain names provided via the command line or read from a file.
 
-## Projectstructuur
+## Project Structure
 
-Hieronder staat een overzicht van de bestanden in dit project en hun functies:
+Below is an overview of the files in this project and their functions:
 
-### Bestanden
+### Files
 
 - **`domain_lookup.py`**  
-  Het hoofdscript van het project. Dit script verwerkt domeinnamen en genereert informatie zoals registrantgegevens, IP-adressen, geolocatie en beschikbaarheid.  
-  **Gebruik:**  
+  The main script of the project. This script processes domain names and generates information such as registrant details, IP addresses, geolocation, and availability.  
+  **Usage:**  
   ```bash
-  python domain_lookup.py <domeinnaam> [-v] [-o output_file] [-f input_file]
+  python domain_lookup.py <domain_name> [-v] [-o output_file] [-f input_file]
   ```
-  **Opties:**
-  - `-v`: Schakelt verbose-modus in voor meer gedetailleerde informatie.
-  - `-o`: Schrijft de uitvoer naar een opgegeven bestand.
-  - `-f`: Leest domeinnamen uit een bestand.
+  **Options:**
+  - `-v`: Enables verbose mode for more detailed information.
+  - `-o`: Writes the output to a specified file.
+  - `-f`: Reads domain names from a file.
 
 - **`domains.txt`**  
-  Een tekstbestand met een lijst van domeinnamen die verwerkt kunnen worden door het script.
+  A text file containing a list of domain names that can be processed by the script.
 
 - **`domeinnamen.csv`**  
-  Een CSV-bestand met een uitgebreide lijst van domeinnamen.
+  A CSV file with an extensive list of domain names.
 
 - **`activedomains.json`**  
-  Een JSON-bestand met een lijst van actieve domeinnamen, inclusief duplicaten.
+  A JSON file containing a list of active domain names, including duplicates.
 
 - **`activedomains_unique.json`**  
-  Een JSON-bestand met een lijst van unieke actieve domeinnamen.
+  A JSON file containing a list of unique active domain names.
 
 - **`activedomains_unique_sorted.json`**  
-  Een JSON-bestand met een gesorteerde lijst van unieke actieve domeinnamen.
+  A JSON file containing a sorted list of unique active domain names.
 
 - **`output.txt`**  
-  Een voorbeeldbestand waarin de uitvoer van het script wordt opgeslagen. Dit bestand bevat gedetailleerde informatie over de verwerkte domeinnamen.
+  A sample file where the script's output is stored. This file contains detailed information about the processed domain names.
 
 - **`test.txt`**  
-  Een leeg bestand dat mogelijk gebruikt kan worden voor testdoeleinden.
+  An empty file that can be used for testing purposes.
 
-## Functionaliteiten
+## Features
 
-### Domeinvalidatie
-Controleert of een domeinnaam geldig is en geen ongewenste tekens bevat.
+### Domain Validation
+Checks whether a domain name is valid and does not contain unwanted characters.
 
-### WHOIS-informatie ophalen
-Verzamelt registratiegegevens van domeinen, zoals registrant, registrar en datums.
+### Retrieve WHOIS Information
+Collects registration details of domains, such as registrant, registrar, and dates.
 
-### Geolocatie ophalen
-Bepaalt de geografische locatie van een domein op basis van het IP-adres.
+### Retrieve Geolocation
+Determines the geographical location of a domain based on its IP address.
 
-### Beschikbaarheid controleren
-Controleert of een domein beschikbaar is voor registratie.
+### Check Availability
+Checks if a domain is available for registration.
 
-### Uitvoer naar bestand
-Schrijft de resultaten naar een opgegeven bestand.
+### Output to File
+Writes the results to a specified file.
 
-## Voorbeeldgebruik
+## Usage Examples
 
-**Domein controleren via de command-line**
+**Check a domain via the command line**
 ```bash
 python domain_lookup.py example.com -v
 ```
 
-**Domeinen uit een bestand verwerken**
+**Process domains from a file**
 ```bash
 python domain_lookup.py -f domains.txt -o output.txt
 ```
 
-## Vereisten
+## Requirements
 
 - Python 3.x
-- Vereiste Python-pakketten:
+- Required Python packages:
   - `requests`
   - `whois`
   - `certifi`
 
-Installeer de vereisten met:
+Install the required packages with:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Opmerkingen
+## Notes
 
-- Zorg ervoor dat je een actieve internetverbinding hebt om WHOIS- en geolocatiegegevens op te halen.
-- Het script kan fouten genereren als een domein niet bereikbaar is of als de WHOIS-server geen gegevens retourneert.
+- Ensure you have an active internet connection to retrieve WHOIS and geolocation data.
+- The script may generate errors if a domain is unreachable or if the WHOIS server does not return data.
 
-## Licentie
+## License
 
-Dit project is vrij te gebruiken en aan te passen. Voeg een licentie toe als dat nodig is.
-
+This project is free to use and modify. Add a license if necessary.
