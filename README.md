@@ -116,4 +116,4 @@ This project is free to use and modify.
 
 ## Credit
 
-I want to give some credit to slyfox1186 for allowing me to use parts of the code.
+I want to give some credit to slyfox1186 for making his code free to use, Making it possible for me to use some parts of his code.
