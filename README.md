@@ -12,12 +12,13 @@ Below is an overview of the files in this project and their functions:
   The main script of the project. This script processes domain names and generates information such as registrant details, IP addresses, geolocation, and availability.  
   **Usage:**  
   ```bash
-  python domain_lookup.py <domain_name> [-v] [-o output_file] [-f input_file]
+  python domain_lookup.py <domain_name> [-v] [-o output_file] [-f input_file] [-l limit]
   ```
   **Options:**
   - `-v`: Enables verbose mode for more detailed information.
   - `-o`: Writes the output to a specified file.
   - `-f`: Reads domain names from a file.
+  - `-l`: Limits the number of domains processed from the input file.
 
 - **`domains.txt`**  
   A text file containing a list of domain names that can be processed by the script.
@@ -37,9 +38,6 @@ Below is an overview of the files in this project and their functions:
 - **`output.txt`**  
   A sample file where the script's output is stored. This file contains detailed information about the processed domain names.
 
-- **`test.txt`**  
-  An empty file that can be used for testing purposes.
-
 - **`requirements.txt`**  
   A file listing the Python dependencies required to run the script.
 
@@ -56,6 +54,9 @@ Determines the geographical location of a domain based on its IP address.
 
 ### Check Availability
 Checks if a domain is available for registration.
+
+### Limit the Number of Domains
+Allows you to limit the number of domains processed from an input file using the `-l` flag.
 
 ### Output to File
 Writes the results to a specified file.
@@ -82,6 +83,11 @@ python domain_lookup.py -f domeinnamen.csv -o output.txt
 python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt
 ```
 
+**Limit the number of domains processed to how many you need**
+```bash
+python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt -l 200
+```
+
 ### Steps:
 1. Place your input file (e.g., `domeinnamen.csv`) in the `data` folder.
 2. Ensure the `output` folder exists. If it doesn’t, create it using:
@@ -89,6 +95,7 @@ python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt
    mkdir output
    ```
 3. Run the script with the `-f` flag pointing to the input file in the `data` folder and the `-o` flag pointing to the output file in the `output` folder.
+4. Optionally, use the `-l` flag to limit the number of domains processed.
 
 ## Requirements
 
@@ -96,7 +103,6 @@ python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt
 - Required Python packages:
   - `requests`
   - `whois`
-  - `certifi`
 
 Install the required packages with:
 ```bash
@@ -116,4 +122,4 @@ This project is free to use and modify.
 
 ## Credit
 
-I want to give some credit to slyfox1186 for making his code free to use, Making it possible for me to use some parts of his code.
+Acknowledgment goes to slyfox1186 for making their code freely available, which allowed me to incorporate and adapt certain parts into this project.

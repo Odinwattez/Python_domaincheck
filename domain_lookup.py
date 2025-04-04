@@ -6,14 +6,18 @@ from datetime import datetime
 import requests
 import whois
 
+# Validate the domain to ensure it does not contain any unexpected characters that could lead to SSRF.
+# This function checks if the domain contains only valid characters (alphanumeric, hyphen, and dot).
 def validate_domain(domain):
     """ Validate the domain to ensure it does not contain any unexpected characters that could lead to SSRF. """
     import re
     if not re.match(r"^[a-zA-Z0-9-\.]+$", domain):
-        print(f"Warning: Skipping invalid domain '{domain}'")  # Log a warning
+        print(f"Warning: Skipping invalid domain '{domain}'")
         return None
     return domain
 
+# Format date objects for output
+# This function is used to format the creation, expiration, and updated dates of the domain.
 def format_dates(dates):
     """ Format date objects for output. """
     if isinstance(dates, list):
@@ -23,6 +27,7 @@ def format_dates(dates):
     else:
         return "N/A"
 
+# Get the reverse DNS record for an IP address
 def get_reverse_ip(ip_address):
     """ Get the reverse DNS record for an IP address. """
     try:
@@ -32,6 +37,8 @@ def get_reverse_ip(ip_address):
     except Exception as e:
         return f"Error retrieving hostname - {e}"
 
+# Grabs the geolocation information for the IP address
+# using the ip-api.com service
 def get_geolocation(ip_address):
     """ Fetch geolocation information for an IP address. """
     try:
@@ -40,6 +47,8 @@ def get_geolocation(ip_address):
         return f"Country: {data['country']}, City: {data['city']}, ISP: {data['isp']}"
     except Exception as e:
         return "Error retrieving geolocation"
+
+# Calculate the age of the domain based on its creation date
 
 def calculate_domain_age(creation_date):
     """ Calculate the age of a domain from its creation date. """
@@ -50,6 +59,8 @@ def calculate_domain_age(creation_date):
         return f"Domain Age: {age.days // 365} Years, {age.days % 365} Days"
     return "Domain Age: N/A"
 
+# Display detailed domain information
+# This function compiles all the information about the domain into a formatted string for output.
 def display_info(domain_info, domain_name, verbose=False):
     """ Compile detailed domain information for display. """
     output = [f"\n{'=' * 40}\n\nDomain: {domain_name}"]
@@ -97,6 +108,9 @@ def display_info(domain_info, domain_name, verbose=False):
 
     return "\n".join(output)
 
+# Check if the domain is available for registration
+# This function uses the whois library to check if the domain is available.
+# But isn't foolproof as some registrars may not return accurate results.
 def is_domain_available(domain):
     """ Check if a domain is available for registration. """
     try:
@@ -105,6 +119,8 @@ def is_domain_available(domain):
     except:
         return True
 
+# Process a list of domains and compile information
+# This function iterates through the list of domains, checks their availability, and retrieves their WHOIS information.
 def process_domains(domains, verbose=False, output_file=None, limit=None):
     """ Process a list of domains and compile information. """
     if limit:
@@ -131,6 +147,7 @@ def process_domains(domains, verbose=False, output_file=None, limit=None):
         with open(output_file, 'w') as file:
             file.write("\n".join(results))
 
+# Read domain names from a text file
 def read_domains_from_file(file_path):
     """ Read domain names from a text file. """
     try:
@@ -145,6 +162,8 @@ def read_domains_from_file(file_path):
         sys.exit(1)
 
 
+# Main function to handle command-line arguments and execute the script
+# This function checks for the presence of command-line arguments and processes them accordingly.
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(f"Usage: python3 {sys.argv[0]} <domain/subdomain> [-v] [-o output_file] [-f input_file] [-l limit]")
