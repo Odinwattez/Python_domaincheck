@@ -161,7 +161,6 @@ def read_domains_from_file(file_path):
         print(f"Error reading file '{file_path}': {e}")
         sys.exit(1)
 
-
 # Main function to handle command-line arguments and execute the script
 # This function checks for the presence of command-line arguments and processes them accordingly.
 if __name__ == "__main__":
