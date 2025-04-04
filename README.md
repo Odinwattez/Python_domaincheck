@@ -113,3 +113,7 @@ pip install -r requirements.txt
 ## License
 
 This project is free to use and modify.
+
+## Credit
+
+I want to give some credit to slyfox1186 for allowing me to use parts of the code.
