@@ -114,8 +114,11 @@ def is_domain_available(domain):
     except:
         return True
 
-def process_domains(domains, verbose=False, output_file=None):
+def process_domains(domains, verbose=False, output_file=None, limit=None):
     """ Process a list of domains and compile information. """
+    if limit:
+        domains = domains[:limit]  # Limit the number of domains to process
+
     results = []
     for i, domain in enumerate(domains, start=1):
         print(f"Processing domain {i}/{len(domains)}: {domain}")  # Show progress
@@ -153,7 +156,7 @@ def read_domains_from_file(file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print(f"Usage: python3 {sys.argv[0]} <domain/subdomain> [-v] [-o output_file] [-f input_file]")
+        print(f"Usage: python3 {sys.argv[0]} <domain/subdomain> [-v] [-o output_file] [-f input_file] [-l limit]")
         sys.exit(1)
 
     verbose = "-v" in sys.argv
@@ -161,6 +164,8 @@ if __name__ == "__main__":
     output_file = sys.argv[sys.argv.index("-o") + 1] if output_file_flag and sys.argv.index("-o") + 1 < len(sys.argv) else None
     file_flag = "-f" in sys.argv
     input_file = sys.argv[sys.argv.index("-f") + 1] if file_flag and sys.argv.index("-f") + 1 < len(sys.argv) else None
+    limit_flag = "-l" in sys.argv
+    limit = int(sys.argv[sys.argv.index("-l") + 1]) if limit_flag and sys.argv.index("-l") + 1 < len(sys.argv) else None
 
     domain_list = []
 
@@ -170,12 +175,16 @@ if __name__ == "__main__":
 
     # Add domains from command-line arguments
     domain_list.extend([
-    arg for arg in sys.argv[1:] 
-    if arg not in ["-v", "-o", "-f"] and arg != output_file and arg != input_file
+        arg for arg in sys.argv[1:]
+        if arg not in ["-v", "-o", "-f", "-l"] and arg != output_file and arg != input_file and (not limit_flag or arg != str(limit))
     ])
 
     if not domain_list:
         print("Error: No domains provided.")
         sys.exit(1)
+
+    # Apply the limit to the domain list
+    if limit:
+        domain_list = domain_list[:limit]
 
     process_domains(domain_list, verbose, output_file)

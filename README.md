@@ -77,6 +77,19 @@ python domain_lookup.py -f domains.txt -o output.txt
 python domain_lookup.py -f domeinnamen.csv -o output.txt
 ```
 
+**Process domains from a CSV file in the `data` folder and save output to the `output` folder**
+```bash
+python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt
+```
+
+### Steps:
+1. Place your input file (e.g., `domeinnamen.csv`) in the `data` folder.
+2. Ensure the `output` folder exists. If it doesn’t, create it using:
+   ```bash
+   mkdir output
+   ```
+3. Run the script with the `-f` flag pointing to the input file in the `data` folder and the `-o` flag pointing to the output file in the `output` folder.
+
 ## Requirements
 
 - Python 3.x

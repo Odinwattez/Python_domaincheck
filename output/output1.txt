@@ -1,0 +1,4572 @@
+
+========================================
+
+Domain: 010-nieuws.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-27-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 12 Years, 345 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: 020-nieuws.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-27-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 12 Years, 345 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: 050clickt.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-25-2016 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-12-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 9 Years, 41 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: 112-nieuws.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-28-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 17 Years, 224 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+Domain '112mkb.eu' is not available for registration.
+
+========================================
+
+Domain: 112mkb.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-05-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 10-29-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 24 Years, 279 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: 112mkbaccountants.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-05-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 24 Years, 279 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: 123arbeidsmarktcommunicatie.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-04-2019 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 06-21-2023 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 6 Years, 2 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: 1media.nu
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 04-10-2013 00:00:00 UTC
+Expiration Date: 04-10-2025 00:00:00 UTC
+Updated Date: 04-08-2024 00:00:00 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned delegation
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 11 Years, 362 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: 247arbeidsmarktcommunicatie.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-04-2019 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 06-21-2023 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 6 Years, 2 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: 5avenue.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-26-2003 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.179.19
+Reverse IP: 136-144-179-19.colo.transip.net
+Domain Age: 21 Years, 196 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: 61a.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 41 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: 61acursussen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 41 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: 61aopleidingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 41 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: Kunststofkozijnenenramen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-28-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-17-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 17 Years, 40 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: a-atopper.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-03-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 156 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: a-gear.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-04-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.231
+Reverse IP: shared01.admium.nl
+Domain Age: 10 Years, 124 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: a-otten.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-03-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.215.176
+Reverse IP: minion10.web.visualmedia.nl
+Domain Age: 25 Years, 98 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: aa-topper.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-03-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 156 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: aasmansignservice.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-22-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 16 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: aatopper.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-03-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 156 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: actio.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-21-2004 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.215.176
+Reverse IP: minion10.web.visualmedia.nl
+Domain Age: 20 Years, 262 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+Domain 'actionquality.eu' is not available for registration.
+
+========================================
+
+Domain: actionquality.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-09-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 03-14-2018 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 15 Years, 58 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: activiteiteninnijmegen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-27-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-11-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 16 Years, 132 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: activiteitennijmegen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-17-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-11-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.10
+Reverse IP: admiumvm-webhosting.admium.nl
+Domain Age: 15 Years, 142 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: administratiebureauotten.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-14-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: 14 Years, 206 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+An error occurred while processing 'admium-horeca.nl': cannot access local variable 'ip_address' where it is not associated with a value
+
+========================================
+
+Domain: admium.biz
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 11-12-2001 12:15:51 UTC
+Expiration Date: N/A
+Updated Date: 11-14-2024 23:40:01 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 23 Years, 148 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+Domain 'admium.eu' is not available for registration.
+
+========================================
+
+Domain: admium.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-25-2001 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-09-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 87.233.225.138
+Reverse IP: No reverse DNS record found
+Domain Age: 24 Years, 75 Days
+Geolocation: Country: The Netherlands, City: Leusden, ISP: True
+
+========================================
+
+Domain: admium.online
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb bvba
+
+Creation Date: 08-27-2015 08:15:46 UTC
+Expiration Date: 08-27-2025 23:59:59 UTC
+Updated Date: 09-02-2024 09:06:23 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+IP Address: 87.233.225.138
+Reverse IP: No reverse DNS record found
+Domain Age: 9 Years, 223 Days
+Geolocation: Country: The Netherlands, City: Leusden, ISP: True
+
+========================================
+
+Domain: admiumdev.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-15-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.231
+Reverse IP: shared01.admium.nl
+Domain Age: 12 Years, 23 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+Domain 'admiumhoreca.eu' is not available for registration.
+
+========================================
+
+Domain: admiumhoreca.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-15-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 19 Years, 298 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: admiuminside.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-01-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.124.54.2
+Reverse IP: D57C3602.static.ziggozakelijk.nl
+Domain Age: 18 Years, 67 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Vodafone Libertel B.V.
+
+========================================
+
+Domain: admiummailmanager.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-19-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 14 Years, 140 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: admiumsearch.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-28-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 17 Years, 40 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: admiumsites.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-09-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.transip.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 46.22.188.240
+Reverse IP: No reverse DNS record found
+Domain Age: 10 Years, 333 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Intermax Group B.V.
+
+========================================
+
+Domain: advanceddeco.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-15-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.238.163
+Reverse IP: 149-210-238-163.colo.transip.net
+Domain Age: 18 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: TransIP BV
+
+========================================
+
+Domain: aenatopper.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-31-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 13 Years, 312 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: agear.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-04-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.231
+Reverse IP: shared01.admium.nl
+Domain Age: 10 Years, 124 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: agrarimmoonline.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 10-09-2022 14:45:45 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 80.95.160.231
+Reverse IP: shared01.admium.nl
+Domain Age: N/A
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: agrarische-verzekeringen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-05-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 19 Years, 278 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: agrarischebedrijven.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-06-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 25 Years, 95 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: agrarischloonbedrijfottenvof.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-07-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 03-14-2018 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 10 Years, 90 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: agrarischonroerendgoed.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-06-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 25 Years, 95 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: agriexpert.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-06-2006 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: 18 Years, 124 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: agrikennisforum.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-30-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.50
+Reverse IP: No reverse DNS record found
+Domain Age: 19 Years, 130 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: agrikenteken.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-10-2016 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 8 Years, 300 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: agrispeelgoedvakwinkel.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-10-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-03-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: 10 Years, 209 Days
+Geolocation: Error retrieving geolocation
+Domain 'agritotaalplan.nl' is available for registration.
+Domain 'agrivakwinkel.nl' is available for registration.
+
+========================================
+
+Domain: agriwarehouse.be
+Registrant Name: NameWeb
+Registrant Organization: None
+Registrar: None
+
+Creation Date: 09-26-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 	
+  - 
+
+  - 
+  - .
+  - 1
+  - 2
+  - d
+  - l
+  - m
+  - n
+  - s
+  - v
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 12 Years, 193 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: agriwarehouse.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 11-27-2024 12:22:52 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: N/A
+Geolocation: Error retrieving geolocation
+Domain 'agriwarehouse.eu' is not available for registration.
+Domain 'agriwarehouse.nl' is available for registration.
+
+========================================
+
+Domain: alanyaliving.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 04-23-2005 16:53:50 UTC
+Expiration Date: 04-23-2025 16:53:50 UTC
+Updated Date: 09-18-2024 16:02:30 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 19 Years, 350 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alertadviseursenaccountants.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 10-16-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-04-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 217.19.237.54
+Reverse IP: 217.19.237.54.static.hosted.by.combell.com
+Domain Age: 12 Years, 173 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alescon.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-14-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 05-15-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 25 Years, 87 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alexandervastgoedbeheer.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-29-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-12-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 31.3.98.180
+Reverse IP: vps50626.public.cloudvps.com
+Domain Age: 11 Years, 313 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alfa-rijopledingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-16-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-17-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 356 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alfa-rijopleidingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-17-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 10 Years, 21 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alfarijopledingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-16-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-17-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 356 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alfarijopleidingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-17-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 10 Years, 21 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: algarvevakantie.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-20-2002 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 22 Years, 233 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alle-energieleveranciers.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-16-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 14 Years, 266 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: allesvangraniet.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-25-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 16 Years, 14 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: allesvoorjemerk.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-20-2019 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 06-21-2023 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 5 Years, 290 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: allurelounge.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-30-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 16 Years, 9 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: altijdgrappig.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-27-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 17 Years, 256 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: aluprotect.be
+Registrant Name: NameWeb
+Registrant Organization: None
+Registrar: None
+
+Creation Date: 11-20-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 	
+  - 
+
+  - 
+  - .
+  - 1
+  - 2
+  - d
+  - l
+  - m
+  - n
+  - s
+  - v
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 138 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: alvaris.be
+Registrant Name: ['VisualMedia BV', 'NameWeb']
+Registrant Organization: None
+Registrar: None
+
+Creation Date: 05-24-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 	
+  - 
+
+  - 
+  - .
+  - 1
+  - 2
+  - d
+  - l
+  - m
+  - n
+  - s
+  - v
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 12 Years, 318 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: amersfoortevenementen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-21-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 15 Years, 77 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: amersfoortseharingparty.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-04-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 35.204.119.150
+Reverse IP: 150.119.204.35.bc.googleusercontent.com
+Domain Age: 18 Years, 95 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: amersfoortsupport.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-24-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.125
+Reverse IP: a80-95-160-125.intermax.nl
+Domain Age: 13 Years, 227 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: amersfoortsupports.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-24-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.125
+Reverse IP: a80-95-160-125.intermax.nl
+Domain Age: 13 Years, 227 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: andredokter.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 05-04-2016 13:24:10 UTC
+Expiration Date: 05-04-2025 13:24:10 UTC
+Updated Date: 09-18-2024 17:44:30 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 8 Years, 336 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: andreweima.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 20 Years, 40 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: andries-assen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-18-2002 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-15-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.212.102
+Reverse IP: 149-210-212-102.colo.transip.net
+Domain Age: 22 Years, 296 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: annehiel.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-09-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-09-2018 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 35.204.119.150
+Reverse IP: 150.119.204.35.bc.googleusercontent.com
+Domain Age: 16 Years, 273 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: annhilonline.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-12-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-08-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 269 Days
+Geolocation: Error retrieving geolocation
+
+========================================
+
+Domain: apollo-bv.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 07-30-1998 04:00:00 UTC
+Expiration Date: 07-29-2025 04:00:00 UTC
+Updated Date: 07-27-2024 22:35:03 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 26 Years, 255 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollo-bv.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-12-2001 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 23 Years, 272 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollo-ls.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 05-01-2006 11:44:44 UTC
+Expiration Date: 05-01-2025 11:44:44 UTC
+Updated Date: 09-09-2024 14:07:56 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 18 Years, 342 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollo-ls.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-01-2006 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 18 Years, 343 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollo-vts.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 05-01-2006 09:56:25 UTC
+Expiration Date: 05-01-2025 09:56:25 UTC
+Updated Date: 09-09-2024 14:07:59 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 18 Years, 343 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollo-vts.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-01-2006 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 18 Years, 343 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollobv.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 09-28-2011 10:41:50 UTC
+Expiration Date: 09-28-2025 10:41:50 UTC
+Updated Date: 09-26-2024 22:36:43 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 35.214.178.171
+Reverse IP: 171.178.214.35.bc.googleusercontent.com
+Domain Age: 13 Years, 191 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: apollobv.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 04-03-2022 11:42:11 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: N/A
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+Domain 'apollobv.es' is available for registration.
+Domain 'apollobv.eu' is not available for registration.
+
+========================================
+
+Domain: apollobv.fr
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb bvba
+
+Creation Date: 05-01-2020 12:27:12 UTC
+Expiration Date: 05-01-2025 12:27:12 UTC
+Updated Date: 05-04-2024 22:34:26 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+Contact Emails:
+  - info@nameweb.biz
+  - info@apollobv.nl
+  - support@dappr.nl
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 4 Years, 338 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: apollobv.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-28-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 35.214.178.171
+Reverse IP: 171.178.214.35.bc.googleusercontent.com
+Domain Age: 13 Years, 192 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+Domain 'apollogroup.es' is available for registration.
+
+========================================
+
+Domain: apollogroup.fr
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb bvba
+
+Creation Date: 05-01-2020 12:36:47 UTC
+Expiration Date: 05-01-2025 12:36:47 UTC
+Updated Date: 05-04-2024 22:34:26 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+Contact Emails:
+  - info@nameweb.biz
+  - info@apollobv.nl
+  - support@dappr.nl
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 4 Years, 338 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: apollosequencer.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 02-27-2009 09:37:54 UTC
+Expiration Date: 02-27-2026 09:37:54 UTC
+Updated Date: 02-25-2025 23:18:37 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 40 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+Domain 'apollosequencer.eu' is not available for registration.
+
+========================================
+
+Domain: apollosequencer.net
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 02-27-2009 09:38:48 UTC
+Expiration Date: 02-27-2026 09:38:48 UTC
+Updated Date: 02-25-2025 23:18:38 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 40 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apollosequencer.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 40 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apolloservice.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 40 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apparatuurtopper.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-27-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 12 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: apparatuurtoppers.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-23-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 15 Years, 44 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: arnozoeraccountancy.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-13-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 10 Years, 53 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: artikel61a.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-27-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 41 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: asdl.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-15-2002 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 23 Years, 85 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: aspakantoorartikelen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-16-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 16 Years, 266 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: aspen-valley.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: Hostnet B.V.
+
+Creation Date: 05-29-2001 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 01-16-2025 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 23 Years, 316 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: atbcafes.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-12-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 17 Years, 118 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: atotzverhuis.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-06-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 25 Years, 4 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: auto-bench.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-24-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 14 Years, 135 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: auto-rek.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-10-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 88 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: autobedrijfvaneeks.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 01-11-2023 08:46:57 UTC
+Expiration Date: 01-11-2026 08:46:57 UTC
+Updated Date: 01-09-2025 23:34:17 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autobedrijfvaneeks.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-11-2023 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autokamphof.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-22-2006 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 18 Years, 108 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: autolaadkraanopleidingen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-19-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 16 Years, 110 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: autorijschoolhoogeveen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-07-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 10 Years, 335 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autoschadeherstelvaneeks.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 01-11-2023 08:47:55 UTC
+Expiration Date: 01-11-2026 08:47:55 UTC
+Updated Date: 01-09-2025 23:41:05 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autoschadeherstelvaneeks.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-11-2023 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autoschadesentwaninge.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-12-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 12 Years, 299 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: autoschadevaneeks.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 01-11-2023 08:44:57 UTC
+Expiration Date: 01-11-2026 08:44:57 UTC
+Updated Date: 01-09-2025 23:41:04 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autoschadevaneeks.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-11-2023 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+An error occurred while processing 'autoshadeherstelvaneeks.com': No match for "AUTOSHADEHERSTELVANEEKS.COM".
+>>> Last update of whois database: 2025-04-04T08:35:43Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+
+========================================
+
+Domain: autospuiterijvaneeks.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 01-11-2023 08:48:42 UTC
+Expiration Date: 01-11-2026 08:48:42 UTC
+Updated Date: 01-09-2025 23:41:04 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autospuiterijvaneeks.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-11-2023 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 84 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: autoteile-motoren.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 03-05-2022 17:45:37 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: N/A
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: autoteile-und-motoren.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 03-01-2023 14:55:33 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: N/A
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: autowascentrumbeilen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-08-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 10 Years, 334 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: avandongen.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 03-29-2017 07:36:21 UTC
+Expiration Date: 03-29-2026 07:36:21 UTC
+Updated Date: 03-27-2025 23:18:46 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 8 Years, 8 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: azhoveniers.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-06-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-02-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 17 Years, 62 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: backsite1985.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-02-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 9 Years, 156 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bamboobar.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-16-2006 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 18 Years, 328 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: bareetcafecentraal.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-10-2003 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.165.86
+Reverse IP: a80-95-165-86.intermax.nl
+Domain Age: 22 Years, 0 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: barmasters.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-04-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 05-11-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 13 Years, 278 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: basbouman.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-07-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 24 Years, 215 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: basementnijmegen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-14-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-11-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 12 Years, 297 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: bbkozijnen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-11-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 34.90.58.179
+Reverse IP: 179.58.90.34.bc.googleusercontent.com
+Domain Age: 15 Years, 209 Days
+Geolocation: Country: Netherlands, City: Groningen, ISP: Google LLC
+
+========================================
+
+Domain: bedrijfshal-assen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfshal-groningen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfshal-zwolle.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfsmineralenplan.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-02-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 19 Years, 250 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfsruimte-assen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfsruimte-groningen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bedrijfsruimte-huren-hoogeveen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-05-2015 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 03-14-2018 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 10 Years, 61 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bedrijfsruimte-zwolle.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-28-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.37
+Reverse IP: No reverse DNS record found
+Domain Age: 20 Years, 71 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+An error occurred while processing 'bedrijventerreindewieken.nl': cannot access local variable 'ip_address' where it is not associated with a value
+
+========================================
+
+Domain: beenautoschadeveendam.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-27-2017 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-05-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 7 Years, 191 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: begeleidautorijden.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-26-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 16 Years, 225 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: beleefdetraverse.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-10-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 16 Years, 363 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: bellbox.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-07-2020 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 4 Years, 119 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: benbkozijnen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 09-11-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 15 Years, 209 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: beniktevinden.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-01-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: 20 Years, 8 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+An error occurred while processing 'beregeningswebwinkel.nl': cannot access local variable 'ip_address' where it is not associated with a value
+
+========================================
+
+Domain: beregeningwebwinkel.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-03-2013 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 11 Years, 308 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: berghave.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-13-2004 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.25
+Reverse IP: roco25.rovecom.nl
+Domain Age: 21 Years, 87 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: bergpaviljoen.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 06-22-2000 20:50:26 UTC
+Expiration Date: 06-22-2025 20:50:26 UTC
+Updated Date: 06-20-2024 22:27:43 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 24 Years, 291 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+Domain 'bergpaviljoen.eu' is not available for registration.
+
+========================================
+
+Domain: besenundbuersten.de
+Registrant Name: None
+Registrant Organization: None
+Registrar: None
+
+Creation Date: N/A
+Expiration Date: N/A
+Updated Date: 11-01-2022 17:19:42 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: N/A
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
+
+========================================
+
+Domain: bestoflbue.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 04-24-2008 11:53:33 UTC
+Expiration Date: 04-24-2025 11:53:33 UTC
+Updated Date: 09-18-2024 23:34:29 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 16 Years, 348 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: beurs-banner.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-25-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 17 Years, 74 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: beurs-banners.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-25-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 17 Years, 74 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: beurs-inrichting.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-24-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 15 Years, 15 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: beursnoord.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 12-20-2016 09:38:07 UTC
+Expiration Date: 12-20-2025 09:38:07 UTC
+Updated Date: 12-18-2024 23:37:01 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 185.56.146.119
+Reverse IP: cloud.rhosting.nl
+Domain Age: 8 Years, 107 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Cldin B.V.
+
+========================================
+
+Domain: beursnoord.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-20-2016 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-03-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 8 Years, 107 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: beursstand-inrichting.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 03-24-2010 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 15 Years, 15 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: beursvloerwoerden.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 08-05-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.222.153
+Reverse IP: 136-144-222-153.colo.transip.net
+Domain Age: 16 Years, 246 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bewustvanvoeding.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-22-2014 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-15-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 11 Years, 75 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bhvdaarredjelevensmee.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-20-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-14-2020 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 48 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: biasg.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-23-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.231
+Reverse IP: shared01.admium.nl
+Domain Age: 13 Years, 106 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: biermerk.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-12-2001 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.181
+Reverse IP: a80-95-160-181.intermax.nl
+Domain Age: 24 Years, 57 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: bierproeverijdoorhetland.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 10-08-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 16 Years, 182 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bigbalepress.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 04-06-2009 14:22:34 UTC
+Expiration Date: 04-06-2025 14:22:34 UTC
+Updated Date: 09-09-2024 14:07:51 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 16 Years, 1 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: bigsing.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 10-26-2021 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-13-2023 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 3 Years, 161 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
+
+========================================
+
+Domain: bigsing.online
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb bvba
+
+Creation Date: 10-26-2021 10:06:21 UTC
+Expiration Date: 10-26-2025 23:59:59 UTC
+Updated Date: 12-01-2023 11:58:10 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 3 Years, 161 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
+
+========================================
+
+Domain: bijpatent.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-09-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 20 Years, 59 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: bijzonderboreel.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-16-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-20-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 16 Years, 113 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bikkelloop.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 07-03-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 17 Years, 280 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: bkajaapbakker.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-21-2004 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 193.138.251.46
+Reverse IP: roco46.rovecom.nl
+Domain Age: 20 Years, 353 Days
+Geolocation: Country: The Netherlands, City: Groningen, ISP: Duocast B.V.
+
+========================================
+
+Domain: blauwecross.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-07-2019 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 08-12-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 5 Years, 303 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: blauweengel.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-19-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 24 Years, 326 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bloom-kralen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-11-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 12 Years, 361 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: bloomkralen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-11-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 12 Years, 361 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bni-amersfoort.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-11-2009 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-18-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.203
+Reverse IP: a80-95-160-203.intermax.nl
+Domain Age: 16 Years, 56 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: bobruiming.com
+Registrant Name: None
+Registrant Organization: None
+Registrar: NameWeb BVBA
+
+Creation Date: 04-06-2010 08:51:09 UTC
+Expiration Date: 04-06-2025 08:51:09 UTC
+Updated Date: 09-19-2024 02:48:30 UTC
+
+Name Servers:
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: unsigned
+
+Contact Emails:
+  - law-enforcement-only@nameweb.biz
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 15 Years, 2 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: bodrumliving.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 05-15-2005 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-14-2022 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 37.97.131.88
+Reverse IP: minion1.legacy.visualmedia.nl
+Domain Age: 19 Years, 329 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: boekoverhoogeveen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-08-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 121 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: boekvanhoogeveen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 12-08-2011 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 13 Years, 121 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+
+========================================
+
+Domain: boerderij-online.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-14-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 24 Years, 300 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: boerderijen.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-06-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.215.176
+Reverse IP: minion10.web.visualmedia.nl
+Domain Age: 25 Years, 95 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: boerderijonline.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 06-14-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 212.204.198.1
+Reverse IP: No reverse DNS record found
+Domain Age: 24 Years, 300 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: KPN Internedservices B.V
+
+========================================
+
+Domain: boerenaov.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-20-2016 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-10-2021 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 149.210.218.54
+Reverse IP: minion16.internal.visualmedia.nl
+Domain Age: 8 Years, 351 Days
+Geolocation: Country: The Netherlands, City: Bodegraven, ISP: Signet B.V.
+
+========================================
+
+Domain: bootgiethoorn.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-20-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-06-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 62.212.154.8
+Reverse IP: srv1.visualmedia.nl
+Domain Age: 12 Years, 352 Days
+Geolocation: Country: The Netherlands, City: Tilburg, ISP: XenoSite
+Domain 'bootsmotoren.eu' is not available for registration.
+
+========================================
+
+Domain: bootverhuursmits.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 04-03-2019 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 07-08-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.220.15
+Reverse IP: 136-144-220-15.colo.transip.net
+Domain Age: 6 Years, 3 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: borrelinarnhem.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 11-27-2008 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-11-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 80.95.160.10
+Reverse IP: admiumvm-webhosting.admium.nl
+Domain Age: 16 Years, 132 Days
+Geolocation: Country: The Netherlands, City: The Hague, ISP: Intermax Rotterdam network
+
+========================================
+
+Domain: borstelkracht.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 10-28-2022 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: N/A
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+
+DNSSEC: no
+
+IP Address: 136.144.220.9
+Reverse IP: nieuwdomein.dappr.nl
+Domain Age: 2 Years, 159 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: Signet B.V.
+
+========================================
+
+Domain: borstels.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 01-07-2000 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 11-07-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 25 Years, 94 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
+
+========================================
+
+Domain: bosvreugdbv.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-20-2007 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 09-09-2019 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 213.207.86.83
+Reverse IP: hades.visualmedia.nl
+Domain Age: 18 Years, 48 Days
+Geolocation: Country: The Netherlands, City: 's-Hertogenbosch, ISP: MLC/InterConnect
+
+========================================
+
+Domain: bouwbedrijf-doornenbal.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-19-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-02-2024 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 13 Years, 48 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
+
+========================================
+
+Domain: bouwbedrijfdoornenbal.nl
+Registrant Name: None
+Registrant Organization: None
+Registrar: VisualMedia B.V.
+
+Creation Date: 02-19-2012 00:00:00 UTC
+Expiration Date: N/A
+Updated Date: 12-02-2024 00:00:00 UTC
+
+Name Servers:
+  - 
+  - creation
+  - ns1.dnsvm.nl
+  - ns2.dnsvm.nl
+  - updated
+
+DNSSEC: no
+
+IP Address: 136.144.147.236
+Reverse IP: 136-144-147-236.colo.transip.net
+Domain Age: 13 Years, 48 Days
+Geolocation: Country: The Netherlands, City: Amsterdam, ISP: TransIP BV
