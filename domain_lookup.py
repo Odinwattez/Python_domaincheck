@@ -1,4 +1,4 @@
-#  -  Usage: python domain_lookup.py reddit.com google.com -o output.txt
+#  -  Usage: python domain_lookup.py -f data/domeinnamen.csv -o output/output.txt
 
 import sys
 import socket
