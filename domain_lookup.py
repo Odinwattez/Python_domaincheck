@@ -88,7 +88,7 @@ def display_info(domain_info, domain_name, verbose=False):
             output.extend([f"  - {email}" for email in domain_info.emails])
         else:
             output.append(f"  - {domain_info.emails}")
-
+ 
     try:
         ip_address = socket.gethostbyname(validate_domain(domain_name))
         output.append(f"\nIP Address: {ip_address}")
