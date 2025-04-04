@@ -40,6 +40,9 @@ Below is an overview of the files in this project and their functions:
 - **`test.txt`**  
   An empty file that can be used for testing purposes.
 
+- **`requirements.txt`**  
+  A file listing the Python dependencies required to run the script.
+
 ## Features
 
 ### Domain Validation
@@ -69,6 +72,11 @@ python domain_lookup.py example.com -v
 python domain_lookup.py -f domains.txt -o output.txt
 ```
 
+**Process domains from a CSV file**
+```bash
+python domain_lookup.py -f domeinnamen.csv -o output.txt
+```
+
 ## Requirements
 
 - Python 3.x
@@ -86,7 +94,9 @@ pip install -r requirements.txt
 
 - Ensure you have an active internet connection to retrieve WHOIS and geolocation data.
 - The script may generate errors if a domain is unreachable or if the WHOIS server does not return data.
+- IP-API has a limit of 45 requests per minute per IP. If you exceed this limit, you may be temporarily banned for an hour.
+- The script supports both `.txt` and `.csv` files for input.
 
 ## License
 
-This project is free to use and modify. Add a license if necessary.
+This project is free to use and modify.
