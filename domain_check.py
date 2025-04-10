@@ -163,10 +163,17 @@ def is_domain_available(domain):
     except:
         return True
 
-def process_domains(domains, verbose=False, output_file=None):
-    """ Process a list of domains and compile information. """
-    results = []
-    for domain in domains:
+def process_domains(domains, verbose=False, output_file=None, limit=None):
+    """Process a list of domains and compile information."""
+    if limit:
+        domains = domains[:limit]  # Limit the number of domains to process
+
+    if output_file:
+        with open(output_file, 'w') as file:  # Clear the file at the start
+            file.write("")  # Ensure the file is empty
+
+    for i, domain in enumerate(domains, start=1):
+        print(f"Processing domain {i}/{len(domains)}: {domain}")  # Show progress
         try:
             domain_info = whois.whois(domain)
             if not domain_info.status or "No match for domain" in str(domain_info.status):
@@ -177,23 +184,65 @@ def process_domains(domains, verbose=False, output_file=None):
         except Exception as e:
             result = f"An error occurred while processing '{domain}': {e}"
 
-        results.append(result)
+        print(result)  # Print the result immediately
 
-    final_output = "\n".join(results)
-    print(final_output)
+        # Write to the output file incrementally
+        if output_file:
+            with open(output_file, 'a') as file:
+                file.write(result + "\n")
 
+    # Append "END_OF_RESULTS" to signal the end of processing
     if output_file:
-        with safe_open_write(output_file) as file:
-            file.write(final_output)
+        with open(output_file, 'a') as file:
+            file.write("END_OF_RESULTS\n")
 
+# Read domain names from a text file
+def read_domains_from_file(file_path):
+    """ Read domain names from a text file. """
+    try:
+        with open(file_path, 'r') as file:
+            domains = [line.strip() for line in file if line.strip()]
+            return domains
+    except FileNotFoundError:
+        print(f"Error: File '{file_path}' not found.")
+        sys.exit(1)
+    except Exception as e:
+        print(f"Error reading file '{file_path}': {e}")
+        sys.exit(1)
+
+# Main function to handle command-line arguments and execute the script
+# This function checks for the presence of command-line arguments and processes them accordingly.
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print(f"Usage: python3 {sys.argv[0]} <domain/subdomain> [-v] [-o output_file]")
+        print(f"Usage: python3 {sys.argv[0]} <domain/subdomain> [-v] [-o output_file] [-f input_file] [-l limit]")
         sys.exit(1)
 
     verbose = "-v" in sys.argv
     output_file_flag = "-o" in sys.argv
     output_file = sys.argv[sys.argv.index("-o") + 1] if output_file_flag and sys.argv.index("-o") + 1 < len(sys.argv) else None
-    domain_list = [validate_domain(arg) for arg in sys.argv[1:] if arg != "-v" and arg != "-o"]
+    file_flag = "-f" in sys.argv
+    input_file = sys.argv[sys.argv.index("-f") + 1] if file_flag and sys.argv.index("-f") + 1 < len(sys.argv) else None
+    limit_flag = "-l" in sys.argv
+    limit = int(sys.argv[sys.argv.index("-l") + 1]) if limit_flag and sys.argv.index("-l") + 1 < len(sys.argv) else None
+
+    domain_list = []
+
+    # Read domains from file if -f is provided
+    if input_file:
+        domain_list.extend(read_domains_from_file(input_file))
+
+    # Add domains from command-line arguments
+    domain_list.extend([
+        arg for arg in sys.argv[1:]
+        if arg not in ["-v", "-o", "-f", "-l"] and arg != output_file and arg != input_file and (not limit_flag or arg != str(limit))
+    ])
+
+    if not domain_list:
+        print("Error: No domains provided.")
+        sys.exit(1)
+
+    # Apply the limit to the domain list
+    if limit:
+        domain_list = domain_list[:limit]
 
     process_domains(domain_list, verbose, output_file)

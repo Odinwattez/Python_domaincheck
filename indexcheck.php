@@ -8,7 +8,7 @@
     <title>Domain Lookup</title>
 </head>
 <body>
-    <h1 class="main-title">     
+    <h1 class="main-title">
         <a href="index.php" class="plain-link">Domain Lookup</a>
         <a href="indexcheck.php" class="plain-link">Domain Check</a>     
     </h1>
@@ -28,14 +28,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $limit = isset($_POST['limit']) ? intval($_POST['limit']) : null;
 
         // Path to the Python script
-        $pythonScript = 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python313\\python.exe domain_lookup.py -f ' . escapeshellarg($uploadedFile) . ' -o output/output.txt';
+        $pythonScript = 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python313\\python.exe domain_check.py -f ' . escapeshellarg($uploadedFile) . ' -o output/output1.txt';
         if ($limit) {
             $pythonScript .= ' -l ' . escapeshellarg($limit);
         }
-        
+
+        // Add verbose mode if selected
+        $verbose = isset($_POST['verbose']) ? '-v' : '';
+        $pythonScript .= " $verbose";
+
         // Debugging: Log the command
         echo "<p>Executing command: $pythonScript</p>";
-        
+
         // Execute the Python script in the background using start /B
         $command = "start /B $pythonScript";
         exec($command . ' > NUL 2>&1', $output, $returnVar);
@@ -46,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<form class="upload-form" action="index.php" method="POST" enctype="multipart/form-data">
+<form class="upload-form" action="indexcheck.php" method="POST" enctype="multipart/form-data">
 <label class="upload-label" for="file-upload">Upload een bestand:</label>
     
     <div class="file-upload-wrapper">
@@ -57,6 +61,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     
     <label class="limit-label" for="limit">Limit the number of domains:</label>
     <input class="limit-input" type="number" name="limit" id="limit" placeholder="e.g., 200"><br><br>
+
+    <label for="verbose">Verbose Mode:</label>
+    <input type="checkbox" name="verbose" id="verbose">
     
     <button class="process-button" type="submit" name="action" value="process">Process Domains</button>
 </form>
@@ -74,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="download-section" id="download" style="display: none;">
     <h2 class="download-title">Download Results</h2>
-    <a class="download-link" href="output/output.txt" download>
+    <a class="download-link" href="output/output1.txt" download>
         <button class="download-button">Download Output</button>
     </a>
 </div>
@@ -89,7 +96,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             const outputElement = document.getElementById('output');
             const downloadElement = document.getElementById('download');
 
-            fetch('output/output.txt')
+            fetch('output/output1.txt')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Failed to fetch results.');

@@ -1,120 +1,197 @@
+/* Algemene stijlen */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    margin: 0;
-    padding: 0;
-}
-
-h1 {
-    text-align: center;
+    background-color: #f8f9fa;
     color: #333;
-    margin-top: 20px;
-}
-
-form {
-    max-width: 600px;
-    margin: 20px auto;
+    margin: 0;
     padding: 20px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: bold;
-    color: #555;
+/* Hoofdtitel */
+.main-title {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-input[type="file"],
-input[type="number"],
-input[type="checkbox"],
-button {
-    display: block;
-    width: 100%;
-    margin-bottom: 15px;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-button {
-    background-color: #007bff;
-    color: white;
-    border: none;
+/* Style the link inside the h1 to look like plain text */
+.plain-link {
+    color: inherit;
+    text-decoration: none;
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #0056b3;
-}
-
-.output {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.output h2 {
-    color: #333;
-}
-
-.output pre {
-    background: #f4f4f9;
-    padding: 10px;
-    border-radius: 4px;
-    overflow-x: auto;
-}
-
-a {
-    text-decoration: none;
-    color: #007bff;
-}
-
-a:hover {
+.plain-link:hover {
     text-decoration: underline;
 }
 
-.kill-button button {
-    background-color: #dc3545;
-    color: white; 
-    border: none;
-    cursor: pointer;
-    padding: 10px;
-    font-size: 16px;
-    border-radius: 4px;
-    width: 100%; 
-    margin-top: 15px; 
+/* Upload formulier */
+.upload-form {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: auto;
 }
 
-.kill-button button:hover {
+.upload-label, .limit-label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.upload-input, .limit-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.limit-input {
+    width: calc(100% - 16px);
+}
+
+/* Knoppen */
+.process-button, .download-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background 0.3s ease;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    width: fit-content;
+}
+
+.process-button:hover, .download-button:hover {
+    background-color: #0056b3;
+}
+
+.kill-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background 0.3s ease;
+}
+
+.kill-button:hover {
     background-color: #c82333;
 }
 
-.upload {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    color: #fff;
-    background-color: #007bff; /* Blue background */
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+/* Kill script sectie */
+.kill-section {
     text-align: center;
+    margin-top: 20px;
+}
+
+/* Resultaten sectie */
+.results-section {
+    background: #ffffff;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: auto;
+}
+
+.download-section {
+    background: #ffffff;
+    padding: 15px;
+    margin: 40px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.results-title, .download-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.results-output {
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+}
+
+/* Download sectie */
+.download-link {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.download-button {
+    display: inline-block;
+}
+
+/* Responsiviteit */
+@media (max-width: 600px) {
+    .upload-form, .results-section, .download-section {
+        max-width: 90%;
+    }
+
+    .upload-input, .limit-input {
+        width: calc(100% - 16px);
+    }
+}
+
+/* Verberg de standaard file input */
+#file-upload {
+    display: none;
+}
+
+/* Stijl de aangepaste knop */
+.custom-file-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    display: inline-block;
+    transition: background 0.3s ease;
+}
+
+.custom-file-button:hover {
+    background-color: #0056b3;
+}
+
+/* Wrapper voor de file upload */
+.file-upload-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
     margin-bottom: 15px;
+    margin-top: 10px;
 }
 
-.upload:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-}
-
-.upload:focus {
-    outline: none;
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+/* Bestandsnaam weergeven */
+#file-name {
+    font-size: 14px;
+    color: #333;
 }
