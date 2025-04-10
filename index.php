@@ -4,90 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">	
     <title>Domain Lookup</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-        }
-
-        h1 {
-            text-align: center;
-            color: #333;
-            margin-top: 20px;
-        }
-
-        form {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: bold;
-            color: #555;
-        }
-
-        input[type="file"],
-        input[type="number"],
-        input[type="checkbox"],
-        button {
-            display: block;
-            width: 100%;
-            margin-bottom: 15px;
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-
-        button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        .output {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        .output h2 {
-            color: #333;
-        }
-
-        .output pre {
-            background: #f4f4f9;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-
-        a {
-            text-decoration: none;
-            color: #007bff;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <h1>Domain Lookup</h1>
@@ -111,24 +29,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($limit) {
             $pythonScript .= ' -l ' . escapeshellarg($limit);
         }
-
+        
         // Debugging: Log the command
         echo "<p>Executing command: $pythonScript</p>";
+        
+        // Execute the Python script in the background using start /B
+        $command = "start /B $pythonScript";
+        exec($command . ' > NUL 2>&1', $output, $returnVar);
 
-        // Execute the Python script
-        $output = [];
-        $returnVar = 0;
-        exec($pythonScript . ' 2>&1', $output, $returnVar);
-
-        // Debugging: Output the result
-        echo "<pre>Output:\n" . implode("\n", $output) . "</pre>";
-        echo "<p>Return Code: $returnVar</p>";
-
-        if ($returnVar === 0) {
-            echo "<p>The script is running. Results will appear below as they are processed.</p>";
-        } else {
-            echo "<p style='color: red;'>An error occurred while running the script. Check the output above for details.</p>";
-        }
     } else {
         echo "<p style='color: red;'>Please upload a valid file.</p>";
     }
@@ -138,19 +46,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <form action="index.php" method="POST" enctype="multipart/form-data">
     <label for="file">Upload a file with domains:</label>
-    <input type="file" name="file" id="file" required><br><br>
+    <input class="upload" type="file" name="file" id="file" required><br><br>
     
     <label for="limit">Limit the number of domains:</label>
     <input type="number" name="limit" id="limit" placeholder="e.g., 200"><br><br>
     
-    <button type="submit">Process Domains</button>
+    <button type="submit" name="action" value="process">Process Domains</button>
+</form>
 
-    <div class="kill-button">
+<div class="kill-button">
     <form action="kill_script.php" method="POST">
-        <button type="submit">Kill Running Script</button>
+        <button type="submit" name="action" value="kill">Kill Running Script</button>
     </form>
 </div>
-</form>
 
 <div id="results">
     <h2>Real-Time Results</h2>
