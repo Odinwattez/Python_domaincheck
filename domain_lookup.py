@@ -5,8 +5,6 @@ import socket
 from datetime import datetime
 import requests
 import whois
-import os
-import time
 
 # Validate the domain to ensure it does not contain any unexpected characters that could lead to SSRF.
 # This function checks if the domain contains only valid characters (alphanumeric, hyphen, and dot).
@@ -17,14 +15,6 @@ def validate_domain(domain):
         print(f"Warning: Skipping invalid domain '{domain}'")
         return None
     return domain
-
-# Function to check for the stop signal
-def check_stop_signal():
-    """Check if the stop signal file exists and terminate the script if it does."""
-    if os.path.exists("stop_signal.txt"):
-        print("Stop signal detected. Terminating script.")
-        os.remove("stop_signal.txt")  # Clean up the stop signal file
-        exit(0)
 
 # Format date objects for output
 # This function is used to format the creation, expiration, and updated dates of the domain.
@@ -141,7 +131,6 @@ def process_domains(domains, verbose=False, output_file=None, limit=None):
             file.write("")  # Ensure the file is empty
 
     for i, domain in enumerate(domains, start=1):
-        check_stop_signal()  # Check for the stop signal before processing each domain
         print(f"Processing domain {i}/{len(domains)}: {domain}")  # Show progress
         try:
             domain_info = whois.whois(domain)
