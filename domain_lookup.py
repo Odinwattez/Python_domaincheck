@@ -5,6 +5,8 @@ import socket
 from datetime import datetime
 import requests
 import whois
+import os
+import time
 
 # Validate the domain to ensure it does not contain any unexpected characters that could lead to SSRF.
 # This function checks if the domain contains only valid characters (alphanumeric, hyphen, and dot).
@@ -15,6 +17,14 @@ def validate_domain(domain):
         print(f"Warning: Skipping invalid domain '{domain}'")
         return None
     return domain
+
+# Function to check for the stop signal
+def check_stop_signal():
+    """Check if the stop signal file exists and terminate the script if it does."""
+    if os.path.exists("stop_signal.txt"):
+        print("Stop signal detected. Terminating script.")
+        os.remove("stop_signal.txt")  # Clean up the stop signal file
+        exit(0)
 
 # Format date objects for output
 # This function is used to format the creation, expiration, and updated dates of the domain.
@@ -122,12 +132,16 @@ def is_domain_available(domain):
 # Process a list of domains and compile information
 # This function iterates through the list of domains, checks their availability, and retrieves their WHOIS information.
 def process_domains(domains, verbose=False, output_file=None, limit=None):
-    """ Process a list of domains and compile information. """
+    """Process a list of domains and compile information."""
     if limit:
         domains = domains[:limit]  # Limit the number of domains to process
 
-    results = []
+    if output_file:
+        with open(output_file, 'w') as file:  # Clear the file at the start
+            file.write("")  # Ensure the file is empty
+
     for i, domain in enumerate(domains, start=1):
+        check_stop_signal()  # Check for the stop signal before processing each domain
         print(f"Processing domain {i}/{len(domains)}: {domain}")  # Show progress
         try:
             domain_info = whois.whois(domain)
@@ -140,12 +154,16 @@ def process_domains(domains, verbose=False, output_file=None, limit=None):
             result = f"An error occurred while processing '{domain}': {e}"
 
         print(result)  # Print the result immediately
-        results.append(result)
 
-    # Write all results to the output file if specified
+        # Write to the output file incrementally
+        if output_file:
+            with open(output_file, 'a') as file:
+                file.write(result + "\n")
+
+    # Append "END_OF_RESULTS" to signal the end of processing
     if output_file:
-        with open(output_file, 'w') as file:
-            file.write("\n".join(results))
+        with open(output_file, 'a') as file:
+            file.write("END_OF_RESULTS\n")
 
 # Read domain names from a text file
 def read_domains_from_file(file_path):
