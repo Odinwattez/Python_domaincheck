@@ -63,10 +63,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="kill-section">
     <div class="button-container">
-        <form class="kill-form" action="kill_script.php" method="POST">
+        <form class="kill-form" action="kill_scripts/kill_script.php" method="POST">
             <button class="kill-button" type="submit" name="action" value="kill">Kill Running Script</button>
         </form>
-        <form class="output-form" action="delete_output.php" method="POST">
+        <form class="output-form" action="delete_outputs/delete_output.php" method="POST">
             <button class="delete-button" type="submit" name="action" value="Empty">Delete the output</button>
         </form>
     </div>
