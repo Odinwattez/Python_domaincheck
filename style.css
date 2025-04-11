@@ -75,6 +75,7 @@ body {
     background-color: #0056b3;
 }
 
+/* Kill script sectie */
 .kill-button {
     background-color: #dc3545;
     color: white;
@@ -91,10 +92,41 @@ body {
     background-color: #c82333;
 }
 
-/* Kill script sectie */
 .kill-section {
     text-align: center;
     margin-top: 20px;
+}
+
+.delete-button {
+    background-color: #19c902;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background 0.3s ease;
+}
+
+.delete-button:hover {
+    background-color: #17af12;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.kill-form, .output-form {
+    margin: 0;
+}
+
+.kill-button, .delete-button {
+    margin-bottom: 15px;
 }
 
 /* Resultaten sectie */

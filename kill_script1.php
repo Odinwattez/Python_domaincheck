@@ -6,7 +6,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Path to Python executable and kill_script.py
     $pythonPath = 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python313\\python.exe';
-    $killScriptPath = 'kill_script.py';
+    $killScriptPath = 'kill_script1.py';
 
     // Execute the Python script to terminate the running process
     exec("$pythonPath $killScriptPath", $output, $returnVar);

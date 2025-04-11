@@ -12,6 +12,7 @@
         <a href="index.php" class="plain-link">Domain Lookup</a>
         <a href="indexcheck.php" class="plain-link">Domain Check</a>     
     </h1>
+    <h1 class="main-title">Watch out this one is very slow...</h1>
 
     <?php
 set_time_limit(1200); // Allow the script to run for 20 minutes
@@ -69,9 +70,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </form>
 
 <div class="kill-section">
-    <form class="kill-form" action="kill_script.php" method="POST">
-        <button class="kill-button" type="submit" name="action" value="kill">Kill Running Script</button>
-    </form>
+    <div class="button-container">
+        <form class="kill-form" action="kill_script1.php" method="POST">
+            <button class="kill-button" type="submit" name="action" value="kill">Kill Running Script</button>
+        </form>
+        <form class="output-form" action="delete_output1.php" method="POST">
+            <button class="delete-button" type="submit" name="action" value="Empty">Delete the output</button>
+        </form>
+    </div>
 </div>
 
 <div class="results-section">
