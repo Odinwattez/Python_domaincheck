@@ -143,7 +143,7 @@ Below is an overview of the files in this project and their functions:
 - **Python 3.x**
 - Required Python packages:
   - `requests`
-  - `whois`
+  - `python-whois`
   - `psutil`
 - Install the required packages with:
   ```bash
@@ -160,8 +160,3 @@ Below is an overview of the files in this project and their functions:
 ## License
 
 This project is free to use and modify.
-
-## Credit
-
-Acknowledgment goes to **slyfox1186** for making their code freely available, which allowed me to incorporate and adapt certain parts into this project.
-
