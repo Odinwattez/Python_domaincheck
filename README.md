@@ -6,34 +6,50 @@ This project contains a Python script and a PHP-based web interface that gathers
 
 Below is an overview of the files in this project and their functions:
 
-### Files
+### Python Files
 
 - **`domain_lookup.py`**  
-  The main script of the project. This script processes domain names and generates information such as registrant details, IP addresses, geolocation, and availability.  
-  **Usage:**  
-  ```bash
-  python domain_lookup.py <domain_name> [-v] [-o output_file] [-f input_file] [-l limit]
-  ```
-  **Options:**
-  - `-v` : Enables verbose mode for more detailed information.
-  - `-o` : Writes the output to a specified file.
-  - `-f` : Reads domain names from a file.
-  - `-l` : Limits the number of domains processed from the input file.
+  The main script of the project. This script processes domain names and generates information such as registrant details, IP addresses, geolocation, and availability.
 
-- **`index.php`**  
-  The main PHP file for the web interface. It allows users to upload a file of domain names, process them using the Python script, and view the results in real-time.
+- **`domain_check.py`**  
+  A secondary script for a more detailed domain-checking process.
 
 - **`kill_script.py`**  
   A Python script that terminates the `domain_lookup.py` process if it is running. This is triggered via the "Kill Running Script" button in the web interface.
 
+- **`kill_script1.py`**  
+  A Python script that terminates the `domain_check.py` process if it is running.
+
+### PHP Files
+
+- **`index.php`**  
+  The main PHP file for the web interface. It allows users to upload a file of domain names, process them using the Python script, and view the results in real-time.
+
+- **`indexcheck.php`**  
+  A secondary PHP file for a slower, more detailed domain-checking process. It uses `domain_check.py` for processing.
+
 - **`kill_script.php`**  
   A PHP script that executes `kill_script.py` to terminate the running Python process.
+
+- **`kill_script1.php`**  
+  A PHP script that executes `kill_script1.py` to terminate the running Python process.
+
+- **`delete_output.php`**  
+  A PHP script to clear the contents of `output.txt`.
+
+- **`delete_output1.php`**  
+  A PHP script to clear the contents of `output1.txt`.
+
+### Other Files
 
 - **`style.css`**  
   The CSS file for styling the web interface, including buttons for uploading files, killing the script, and downloading results.
 
 - **`output/output.txt`**  
-  The file where the Python script writes its results. This file is updated in real-time and can be downloaded via the web interface.
+  The file where `domain_lookup.py` writes its results. This file is updated in real-time and can be downloaded via the web interface.
+
+- **`output/output1.txt`**  
+  The file where `domain_check.py` writes its results.
 
 - **`requirements.txt`**  
   A file listing the Python dependencies required to run the script.
@@ -148,3 +164,4 @@ This project is free to use and modify.
 ## Credit
 
 Acknowledgment goes to **slyfox1186** for making their code freely available, which allowed me to incorporate and adapt certain parts into this project.
+
